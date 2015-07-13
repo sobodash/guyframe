@@ -1,0 +1,1802 @@
+
+0x2200 : 0xa180 (0x2380)
+posy =0x19, posx =0x1a
+sizex=0x06, sizey=0x01
+PUSH I
+[END OF MSG]
+
+0x2202 : 0xa180 (0x2380)
+posy =0x19, posx =0x1a
+sizex=0x06, sizey=0x01
+PUSH I
+[END OF MSG]
+
+0x2204 : 0xa18b (0x238b)
+posy =0x19, posx =0x17
+sizex=0x06, sizey=0x01
+いと゛う[END OF MSG]
+Movement
+
+0x2206 : 0xa195 (0x2395)
+posy =0x19, posx =0x17
+sizex=0x06, sizey=0x01
+ほきゅう[END OF MSG]
+Supplies/Replenish
+
+0x2208 : 0xa19f (0x239f)
+posy =0x07, posx =0x05
+sizex=0x03, sizey=0x01
+まほう
+[END OF MSG]
+Magic
+
+0x220a : 0xa1a7 (0x23a7)
+posy =0x05, posx =0x05
+sizex=0x06, sizey=0x03
+・いと゛う
+・こうけ゛き
+・てったい[END OF MSG]
+Move
+Attack
+Retreat
+
+0x220c : 0xa1bd (0x23bd)
+posy =0x13, posx =0x1a
+sizex=0x0c, sizey=0x01
+と゛の エリアて゛すか?
+[END OF MSG]
+Which area?
+
+0x220e : 0xa1d0 (0x23d0)
+posy =0x13, posx =0x17
+sizex=0x0c, sizey=0x03
+と゛のマ―カ―て゛すか?
+[END OF MSG]
+Which marker?
+
+0x2210 : 0xa1e3 (0x23e3)
+posy =0x05, posx =0x05
+sizex=0x0c, sizey=0x01
+と゛のユニットて゛すか?
+[END OF MSG]
+Which unit?
+
+0x2212 : 0xa1f6 (0x23f6)
+posy =0x13, posx =0x1a
+sizex=0x0c, sizey=0x01
+と゛こにいきますか?[END OF MSG]
+Where to?
+
+0x2214 : 0xa206 (0x2406)
+posy =0x15, posx =0x1a
+sizex=0x0a, sizey=0x01
+と゛こにかけますか?
+[END OF MSG]
+Where will you place it?
+
+0x2216 : 0xa215 (0x2415)
+posy =0x11, posx =0x0a
+sizex=0x0a, sizey=0x01
+と゛れをかけますか?
+[END OF MSG]
+Which one will you place?
+
+0x2218 : 0xa224 (0x2424)
+posy =0x03, posx =0x04
+sizex=0x0b, sizey=0x01
+ぶたいを はいちして
+[pagebreak]
+くた゛さい[END OF MSG]
+Please arrange your forces.
+
+0x221a : 0xa23a (0x243a)
+posy =0x0b, posx =0x11
+sizex=0x0b, sizey=0x01
+まほう せいこう![END OF MSG]
+Magic was successful.
+
+0x221c : 0xa249 (0x2449)
+posy =0x0b, posx =0x11
+sizex=0x0b, sizey=0x01
+まほう しっは゜い[END OF MSG]
+Magic failed.
+
+0x221e : 0xa258 (0x2458)
+posy =0x0b, posx =0x06
+sizex=0x0c, sizey=0x01
+ほきゅうホ゜イント:・・
+[END OF MSG]
+Re-supply point.
+
+0x2220 : 0xa26b (0x246b)
+posy =0x08, posx =0x0d
+sizex=0x10, sizey=0x01
+クリスタル   こ かいしゅう.
+[END OF MSG]
+Recover (x) Crystals.
+
+0x2222 : 0xa282 (0x2482)
+posy =0x09, posx =0x0f
+sizex=0x0e, sizey=0x01
+まほうレヘ゛ル  になった.
+[END OF MSG]
+Magic leveled up to (x).
+
+0x2224 : 0xa297 (0x2497)
+posy =0x0a, posx =0x0c
+sizex=0x0d, sizey=0x03
+
+ほきゅう て゛きません[END OF MSG]
+You cannot resupply.
+
+0x2226 : 0xa2a9 (0x24a9)
+posy =0x05, posx =0x04
+sizex=0x06, sizey=0x04
+いと゛う
+ほきゅう
+し゛ょうほう
+セ―フ゛[END OF MSG]
+Movement
+Supply
+Information
+Save
+
+0x2228 : 0xa2c7 (0x24c7)
+posy =0x13, posx =0x19
+sizex=0x0b, sizey=0x02
+{01} {02} {03} {04} {05} {06}
+[END OF MSG]
+
+0x222a : 0xa2d7 (0x24d7)
+posy =0x05, posx =0x04
+sizex=0x06, sizey=0x02
+[END OF MSG]
+
+0x222c : 0xa2dd (0x24dd)
+posy =0x07, posx =0x0a
+sizex=0x10, sizey=0x02
+テ゛ィアスシティ―へ もと゛るの
+た゛..[END OF MSG]
+We’ve returned to Dias City.
+
+0x222e : 0xa2f8 (0x24f8)
+posy =0x07, posx =0x0a
+sizex=0x10, sizey=0x02
+レアリ―スへ ゆくのた゛..[END OF MSG]
+We’re headed to Lealith.
+
+0x2230 : 0xa30d (0x250d)
+posy =0x07, posx =0x0a
+sizex=0x10, sizey=0x02
+ヨ―クトへ ゆくのた゛..[END OF MSG]
+We’re headed to Yorkto.
+
+0x2232 : 0xa321 (0x2521)
+posy =0x07, posx =0x0a
+sizex=0x10, sizey=0x02
+ノ―トンシャ―へ ゆくのた゛..
+[END OF MSG]
+We’re headed to Nortonshar.
+
+0x2234 : 0xa338 (0x2538)
+posy =0x07, posx =0x0a
+sizex=0x10, sizey=0x02
+エスレサ゛ナ―ルへ ゆくのた゛.
+.[END OF MSG]
+We’re headed to Ethrezenal.
+
+0x2236 : 0xa350 (0x2550)
+posy =0x07, posx =0x0a
+sizex=0x10, sizey=0x02
+クロ―エンへ ゆくのた゛..[END OF MSG]
+We’re headed to Cloren.
+
+0x2238 : 0xa365 (0x2565)
+posy =0x07, posx =0x0a
+sizex=0x10, sizey=0x02
+アイレ―スへ ゆくのた゛..[END OF MSG]
+We’re headed to Aireith.
+
+0x223a : 0xa37a (0x257a)
+posy =0x0f, posx =0x04
+sizex=0x0c, sizey=0x01
+と゛のユニットて゛すか?
+[END OF MSG]
+Which unit?
+
+0x223c : 0xa38d (0x258d)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+まっていたそ゛.
+I’ve been waiting for ‘ya, King of Light!
+
+ひかりの おうよ![END OF MSG]
+
+0x223e : 0xa3a5 (0x25a5)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+
+!!.....[END OF MSG]
+
+0x2240 : 0xa3b2 (0x25b2)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+・・・・クリスタルか゛おしえてく
+れる.わたしにはわかるのた゛.
+
+カ゛イアのちからをひめた，この
+いしのことは゛か゛...[END OF MSG]
+...The Crystals instructed me, and now I understand. The words on this stone hold the power of Gaia...
+
+0x2242 : 0xa3f8 (0x25f8)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+あなたはた゛れて゛すか?
+
+なせ゛，カ゛イアを...
+わたしのことを...[END OF MSG]
+Who are you?
+Why are you asking about me...? About Gaia...?
+
+0x2244 : 0xa424 (0x2624)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+すへ゛ては さだめられておる.
+
+さらは゛し゛ゃ![END OF MSG]
+Everything has been decided long ago.
+This is farewell!
+
+0x2246 : 0xa442 (0x2642)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+むかしの し゛た゛いの はなしか
+ね?[END OF MSG]
+I guess that’s a story from an older age, huh?
+
+0x2248 : 0xa459 (0x2659)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+そうて゛す.
+
+こだい エルスリ―ト゛おうこく
+か゛，めつぼうした し゛た゛い
+の ちそうから，クリスタルは
+はっけんされていませんか?[END OF MSG]
+That’s right.
+
+Did the ancient Kingdom of Elthlead not discover the Crystals from the land of a ruined age?
+
+0x224a : 0xa4a6 (0x26a6)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+そのし゛た゛いは かんせ゛んにき
+えている.
+
+いせきぶつも たしょうは ある
+か゛，きろくか゛ふかんぜんた゛
+That age has long since vanished.
+
+They had achieved many wondrous things in that time, but the records of such things are incomplete.
+
+[pagebreak]
+・・・わたしよりはメアリ―・シ―ン
+はかせを たずねるといい.
+
+いまはレアリ―スの にしのほうに
+いるらしい.[END OF MSG]
+It’d be best if you sought out Professor Mary Shiin, she knows better than I.
+
+I’ve heard that she’s out west, in Lealith.
+
+0x224c : 0xa51e (0x271e)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+クリスタル・・・?
+
+それはヘンリ―・ロ―ト゛はかせに
+きいてくれ.
+
+わたしは なにもしらん.[END OF MSG]
+Crystals...?
+
+Why don’t you ask Professor Henry Lode about that? I don’t know nuthin’.
+
+0x224e : 0xa556 (0x2756)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+わたしか゛けんきゅうしていたわけ
+し゛ゃないの.
+たた゛，ウォ―レンシ゛ョセフの
+じょしゅをしていたの.
+
+かれの やっていたこと...
+[pagebreak]
+て゛も，かなりいせ゛んのはなしよ
+
+それに ほかに，スタンフ゛ラット
+レ―はかせと・・・ た゛れた゛っ
+たかわすれたけと゛・・・ 3にん
+て゛けんきゅうしていたの.
+[pagebreak]
+ウォ―レンに きいてみて.
+
+かれは ひか゛しのほうに いるは
+す゛.[END OF MSG]
+That’s nothing I’ve done extensive research in. I was simply Warren Joseph’s assistant. The things he did...
+
+Other than him, there was Professor Stan Bradley...and a third person I’ve forgotten. The three of them did a lot of research in. Go ask Warren. He should be east of here.
+
+0x2250 : 0xa618 (0x2818)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+クリスタルか..
+だいぶむかしのことた゛.
+しかし，し゛つにきょうみふ゛かい
+ものた゛った.
+かつて じつざいした おうこ
+くか゛とつぜんきえてしまう.
+[pagebreak]
+そんなことか゛ほんとうに あるの
+た゛ろうか?
+わたしも，スタンフ゛ラットレ―も
+シ゛ャックフ゛ラウンはかせも
+みんなおなし゛きょうみから
+しゅっぱつしたんた゛.
+[pagebreak]
+しかし，けつろんとして われわれ
+のそうぞうをこえるものか゛て゛
+た.
+
+すへ゛てはそれか゛け゛んいんた゛
+
+
+[pagebreak]
+われわれのけんきゅうほうこくも，
+にぎりつぶされ，フ゛ラウンは
+かせは，それに なっとくせす゛ア
+カテ゛ミ―をだっかいした.
+すへ゛ては それて゛おしまいにな
+った.[END OF MSG]
+The Crystals, huh? That was a long, long time ago.
+However, it was quite fascinating.
+
+A once existing kingdom that simply vanished.
+I wonder if those things actually happened.
+
+Myself, Stan Bradley and Professor Jack Brown, we all had that same interest. Together, we decided to go investigate.
+
+However, in the end we found something that exceeded anything humankind could create.
+
+It was the source of everything.
+
+But Professor Brown destroyed all of our research without our consent, and then dropped out of the Academy. That was the end of everything we’d worked for.
+
+0x2252 : 0xa750 (0x2950)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+それは なんて゛すか?[END OF MSG]
+And just what was that?
+
+0x2254 : 0xa760 (0x2960)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+われわれの りかいを こえたそん
+さ゛い...
+なんというへ゛きかね..
+
+それか゛とうじのカ゛イア
+たいりくを おそった.
+[pagebreak]
+それか゛ すへ゛てを しょうしつ
+させた はんにんた゛.
+
+・・といっても，あなたには わか
+るわけもないた゛ろうか゛...
+[pagebreak]
+すへ゛てはシ゛ャックフ゛ラウンは
+かせか゛しっている.
+
+さ゛んねんなか゛ら，と゛こにいる
+のかは わからん.
+[pagebreak]
+スタン・フ゛ラットレ―はかせなら
+しっているかもしれない.
+
+かれは ノ―トンシャ―の きたに
+いる.[END OF MSG]
+The existence of something which we could not comprehend.
+
+What should I call it, hmm...?
+
+It was what had attacked the continent of Gaia.
+//(**unsure based on context, and I am not well-versed in the history of this land**).
+
+It was what caused everything to disappear.
+
+...and even when I say that, there’s no way you can understand what I’m talking about, huh?
+
+Professor Jack Brown knows everything about this. But I’m sad to say I don’t know where he is anymore.
+
+Stan Bradford may know his whereabouts. He’s somewhere north of Nortonshar.
+
+0x2256 : 0xa850 (0x2a50)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+そのことなら しってる. たふ゛
+ん，こんと゛のせんそうと なにか
+かんけいあるんた゛ろう.
+
+せんじつも，ウ゛ェルタ゛―ス
+く゛んのやつらに きかれた.
+[pagebreak]
+しかし，わたしは なにもしらない
+
+シ゛ェニ―ランク゛なら はかせの
+いるところをしってるかもしれな
+い. かのし゛ょはエスレサ゛ナ―
+ルの ひか゛しにいるらしい.[END OF MSG]
+I may know the answer to that. It may have something to do with this last war. I heard the Verdarse Army goons talking about it.
+
+But I’m not really sure.
+
+Jenirang (sp?) may know where the Professor is. She’s somewhere east of Ethrezenal.
+
+0x2258 : 0xa8f9 (0x2af9)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+フ゛ラウンはかせから，これを
+わたしてほしいって.[END OF MSG]
+Professor Brown asked me to give you this.
+
+0x225a : 0xa919 (0x2b19)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+キャサリンアルハ゛―トに きいて
+くれ.
+
+かのし゛ょは ひか゛しのほうにい
+る.[END OF MSG]
+Please ask Catharine Albert about that.
+She’s somewhere east of here.
+
+0x225c : 0xa947 (0x2b47)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+フ゛ラウンはかせから たのまれて
+いるわ.
+
+あなたに これをわたしてくれと.
+[END OF MSG]
+Professor Brown told me he
+wanted you to have this.
+
+0x225e : 0xa974 (0x2b74)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+よくきてくれた.シ゛―ク9せい.
+
+いや，シ゛―ク・シュタルマン.
+
+わたしは まっていたそ゛.[END OF MSG]
+So you’ve finally arrived, Zeke the 9th.
+//Note: Not sure what “sei” is without a kanji. I guessed.
+Or should I call you Zeke Shutalman?
+I’ve been waiting for you.
+
+0x2260 : 0xa9ad (0x2bad)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+あなたは た゛れて゛すか?
+
+テ゛ィアスシティの ろうばとい
+い..
+と゛ういうことた゛.[END OF MSG]
+Who are you?
+A female elder of Dias City?
+What do you mean?
+
+0x2262 : 0xa9e2 (0x2be2)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+わたしはウ゛ェルセ゛リアのケ゛ル
+ツ・ホ゛―セ゛ルと たたかい，そ
+のとき，じくうのはてに あしを
+いれてしまった. ケ゛ルツか゛「
+カ゛イア」を ぎゃくりようし，
+しっは゜いしたためた゛.
+[pagebreak]
+やつは そのちからて゛ きえ，わ
+たしは このし゛た゛いにきた.
+そして，エルスリ―ト゛もウ゛ェル
+セ゛リアも，れきしのなかて゛
+しょうしつしたことを しったのた゛
+.
+[pagebreak]
+ケ゛ルツの あとのた゛いの おう
+か゛「カ゛イア」の はんさようり
+ょくに めをつけ，おなし゛ことを
+したら...
+わたしのよそうは け゛んし゛つと
+なった.[END OF MSG]
+I once fought against Velzeria’s Gerts Bozer. During the fight, I opened the depths of time and space. I did this to turn the tables on Bozer’s plans for Gaia, and make sure he never succeeded.
+Because of my actions, the bastard disappeared, and I was thrown into this time period. And then I found out that both Elthlead and Velzeria had faded into the pages of history.
+
+
+0x2264 : 0xaaf1 (0x2cf1)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+それをしんし゛るひとは いなかっ
+たのて゛すね..[END OF MSG]
+No one has ever believed my story.
+
+0x2266 : 0xab0e (0x2d0e)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+さよう.
+
+わたしはむかし，「シ゛―ク・カイ
+サ゛―」と よは゛れていた.[END OF MSG]
+That’s right.
+In the good old days, I was known as “Zeke Kaizer”.
+
+0x2268 : 0xab39 (0x2d39)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+きえた おう のな..
+
+て゛は あなたか゛!![END OF MSG]
+The name of the King who disappeared!
+That means you’re...!!
+
+0x226a : 0xab57 (0x2d57)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+シ゛―ク・カイヘ゛ルト.もう と
+しをとってしまったか゛ね. た゛
+か゛，きみか゛いきていることは
+しっていた. きみの しは，かく
+にんされていなかったからね. そ
+れに... あの ろうは゛..[END OF MSG]
+Zeke Kaibert. You’ve become much older, but
+I knew you were alive! No one had ever confirmed
+that you were dead. But...that old woman...
+
+0x226c : 0xabbd (0x2dbd)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+あのひとは た゛れなのて゛すか?
+[END OF MSG]
+Who is she?
+
+0x226e : 0xabd2 (0x2dd2)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+カ゛イアの し゛ゅつを シ゛―ク
+そ゛くに つたえた まし゛ゅつし
+ハ゛―リン.その いちそ゛くた゛
+
+た゛からこそ きみのそんさ゛いを
+しりえた.[END OF MSG]
+She’s the one who taught the Zeke clan the Arts of Gaia: the Mage Varlin.
+Because she is one of that clan, she found out about your existence.
+
+0x2270 : 0xac24 (0x2e24)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+そうた゛ったのか..[END OF MSG]
+So that’s what happened...?
+
+0x2272 : 0xac33 (0x2e33)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+きみといろいろはなしたいことか゛
+あるか゛，いそか゛ねは゛ならん.
+スクロハ゛ヒ゛ッチか゛ねらってい
+る. シ゛―ク9せい，きみは か
+れとたいけつすることになるた゛ろ
+う.
+[pagebreak]
+しかし，いまのままて゛は かちめ
+はない.
+
+「とうしんへい」を ふっかつさせ
+るのた゛.[END OF MSG]
+I’ve got a lot of things I’d like to talk to you about,
+but we must make haste. Skovavich (sp?) is after us.
+Zeke the 9th, you’ll have to face him.
+But the way you are now, you’ve got no chance of winning.
+Let us revive the “Warrior of the Blade”.
+
+0x2274 : 0xacba (0x2eba)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+とうしんへい?[END OF MSG]
+“Warrior of the Blade”?
+
+0x2276 : 0xacc6 (0x2ec6)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+キャサリンとシ゛ェニ―からも
+わたされたとおもう.
+
+そして，わたしもさいこ゛の1ほ゜
+んをわたそう.[END OF MSG]
+I’m fairly certain you’ve already gotten them from Catharine and Jenny.
+
+Well then, allow me to give you the last one.
+
+0x2278 : 0xad01 (0x2f01)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+これをもって ウ゛ェルト
+さんみゃくの いちは゛ん たかいとやまの
+あるところへゆき，やまの こえを
+きくのた゛.
+[pagebreak]
+きみのカ゛イアのちからか゛ し゛
+ゅうふ゛んて゛あれは゛「とうしん
+の もん」へ みちびかれるた゛
+ろう. そのもんに きみか゛たつ
+とき...
+[pagebreak]
+て゛んせつの ひかりの きょじん
+
+「とうしんへい」か゛ しゅつげんする.[END OF MSG]
+Take this, and head to the tallest mountain around, the Velt (Veldt?) mountain range.
+Once there, find some place to listen to the voice of the mountain.
+If your Gaia Power is great enough, the “Crest of the Blade” will guide you. And when you arrive at the crest, the Legendary Light Warrior, the “Warrior of the Blade” will appear.
+
+0x227a : 0xadae (0x2fae)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+シ゛―ク・カイサ゛―わたしととも
+に ゆきましょう.[END OF MSG]
+Zeke Kaiser, come with me.
+
+0x227c : 0xadce (0x2fce)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+わたしは としおいた.カ゛イアの
+ちからも ほとんと゛なくしてい
+る.
+スクロハ゛ウ゛ィッチと たたかえ
+るのは きみた゛けた゛.[END OF MSG]
+I’m far too old. I don’t have much Gaia Power left within me.
+The only one who can fight against Skovovich is you.
+
+0x227e : 0xae17 (0x3017)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+まっていたそ゛!
+シ゛―ク・シュタルマン.
+
+あのひいらい， わたしは このと
+きを まっていた.[END OF MSG]
+I’ve been waiting for you, Zeke Shutarman!
+Since that day, I’ve waited for this moment.
+
+0x2280 : 0xae4e (0x304e)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+カ゛イアの ちからを あくようし
+ようとし
+
+そのけっか，カ゛イアぜんど゛を
+めつぼうさせた.
+[pagebreak]
+そして いままた，
+このちをほろぼそうとする.
+
+ゆるせん! ホ゛―セ゛ル!![END OF MSG]
+You misused Gaia Power, and as a result,
+you caused the entire land of Gaia to become ruined.
+And now again, you’ve set your sights on destroying all living things.
+I’ll make you pay, Bozer!!
+
+0x2282 : 0xaeb2 (0x30b2)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+そうた゛. なにか゛わるい.
+カ゛イアのちからは わたしのちか
+らた゛.
+
+そして，それを きょだいにさせ
+たのも このわたした゛.[END OF MSG]
+That’s right. And what’s wrong with that?
+Gaia Power is MY power.
+And I’m the one who made that power so great.
+
+0x2284 : 0xaefa (0x30fa)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+ならは゛，わたしは くだけちった
+カ゛イアのちからをあつめ，
+
+わたしの いのちの ほのおととも
+に きさまに しをおくってやる!
+[END OF MSG]
+If that’s the case, then I’ll gather up all
+the power of the destroyed land of Gaia.
+And I’ll use it together with the flame of my life force
+to send you to hell! (lit. “to make him die”)
+
+0x2286 : 0xaf41 (0x3141)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+は゛かめ! 「カ゛イア」の しん
+の ちからをしらぬな...
+
+しぬのは おまえた゛!! わたし
+と，そして「まそうへい」か゛ こ
+のよを やみに してやる!![END OF MSG]
+You fool! You don’t understand the true
+power of “Gaia”...
+You’re the one that’s going to die!
+Me and my army of Warrior Wizards are going
+to blanket this world in darkness!!
+
+0x2288 : 0xaf95 (0x3195)
+posy =0x05, posx =0x11
+sizex=0x0e, sizey=0x04
+そのいえに みごとな けん
+か゛かざってあった. その
+けん. かれはと゛こかて゛み
+た おほ゛えか゛あった.[END OF MSG]
+And within that house, a magnificent sword
+was adorning one of the walls.
+He felt like he had seen that sword somewhere before.
+
+0x228a : 0xafd0 (0x31d0)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+しつれいて゛すか゛，
+あのけんは..
+
+もしやヘ゛ルウット゛け の...
+[END OF MSG]
+Excuse me, but that sword...
+Is it possible from the house of Belwood?
+
+0x228c : 0xaffb (0x31fb)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+そうて゛す.[END OF MSG]
+That it is.
+
+0x228e : 0xb006 (0x3206)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+せ゛ひ，おねか゛いしたい.[END OF MSG]
+Then I have a request of you.
+
+0x2290 : 0xb018 (0x3218)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+わたしも おともします.[END OF MSG]
+Please take me with you.
+
+0x2292 : 0xb029 (0x3229)
+posy =0x05, posx =0x11
+sizex=0x0e, sizey=0x04
+そのいえの おくに，きんいろ
+の もんしょうか゛あった.
+それは まちか゛いなく，みお
+ほ゛えの あるものた゛った
+[pagebreak]
+ウット゛フィ―ルト゛け
+だいたいの かもんて゛あ
+る[END OF MSG]
+Within the house, there was a silver crest.
+There was no mistaking it, he had seen that crest somewhere before.
+It was the coat of arms of the Battalion from the Woodfield family.
+
+0x2294 : 0xb083 (0x3283)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+しつれいて゛すか゛，
+
+あなたはウット゛フィ―ルト゛けの
+かたて゛すか?[END OF MSG]
+Excuse me, but are you of the Woodfield family?
+
+0x2296 : 0xb0ad (0x32ad)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+そうて゛す.[END OF MSG]
+I am.
+
+0x2298 : 0xb0b8 (0x32b8)
+posy =0x05, posx =0x11
+sizex=0x0e, sizey=0x04
+かれか゛わかれをつげたとき
+
+そこに ふるいかふ゛とか゛
+おいてあった.
+[pagebreak]
+それは まちか゛いなく，どくじのもの.
+まぎれもない，ロウ゛ェック
+け の ものた゛.[END OF MSG]
+When he told me he was leaving, he left an old helmet there.
+There’s no mistaking it, it’s definitely the genuine article. It’s a helmet from the Roveck family.
+
+0x229a : 0xb111 (0x3311)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+あなたは...
+
+ロウ゛ェックけの ひとて゛すね?
+[END OF MSG]
+Are you...of the Roveck family?
+
+0x229c : 0xb131 (0x3331)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+そうて゛す.[END OF MSG]
+I am.
+
+0x229e : 0xb13c (0x333c)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+やみの ちからか゛うこ゛いている
+.やつらも このちからをさか゛し
+ている.なんとしても そしするの
+し゛ゃ.このクリスタルをやみのも
+のにわたしてはならぬ.やみのもの
+にわたったら，そのものをたおすの
+[pagebreak]
+し゛ゃ.[END OF MSG]
+The powers of darkness are moving.
+They are also searching for this power.
+No matter what, you must stand in their way of getting it.
+This crystal must not fall into evil hands.
+And if it were to do so, you must defeat them.
+
+0x22a0 : 0xb1a7 (0x33a7)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+クロ―エンにいる，テ゛イフ゛・マ
+―クスンに あってくた゛さい.
+フ゛ラウンはかせのいるところか゛
+わかります.
+かれはクロ―エンの にしのほうに
+います.[END OF MSG]
+Please meet with Dave Markson in Cloren.
+He should know the whereabouts of Professor Brown.
+Dave is in the western part of Cloren.
+
+0x22a2 : 0xb1ff (0x33ff)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+フ゛ラウンはかせか゛ まっていま
+す.
+
+アイレ―ヌの みなみにいます.[END OF MSG]
+Professor Brown is waiting for you.
+He’s south of Airainu.
+
+0x22a4 : 0xb22b (0x342b)
+posy =0x05, posx =0x11
+sizex=0x0e, sizey=0x04
+かれは，し゛ょうきょうを
+
+せつめいした[END OF MSG]
+He explained the situation.
+
+0x22a6 : 0xb244 (0x3444)
+posy =0x08, posx =0x07
+sizex=0x10, sizey=0x03
+テ゛ィア―スレの かか゛くりょく
+て゛ きょうかされた へいきか゛
+かんせいした.[END OF MSG]
+The process of strengthening soldiers
+by using the scientific knowledge of Disearthre
+has completed.
+
+0x22a8 : 0xb272 (0x3472)
+posy =0x05, posx =0x0e
+sizex=0x16, sizey=0x07
+シュ―トク゛―ス -> シュ―トク゛―ス 2
+
+ハ゛トルク゛―ス -> ハ゛トルク゛―ス 2
+
+ メタリオン  ->  メタリオン 2
+
+と なる.[END OF MSG]
+Shootgoose -> Shootgoose 2
+Battlegoose -> Battlegoose 2
+Metalion -> Metalion 2.
+Upgrade complete. (it really says “they’ve become...(x)” at the bottom, but I’m not sure how that would fit)
+
+0x22aa : 0xb2cc (0x34cc)
+posy =0x08, posx =0x0d
+sizex=0x10, sizey=0x05
+テ゛ィア―スレく゛んは
+ウ゛ェルタ゛―スのせんりょうちを
+うばいかえした.
+[pagebreak]
+そして，
+その かか゛くりょくを てにいれ
+あたらしい へいきをつくりた゛し
+た.
+[pagebreak]
+
+それは，まほうと かか゛くの
+か゛ったいしたものた゛った.[END OF MSG]
+The armies of Disearthre have taken back the captured territory of Veldarse.
+And having gained some scientific knowledge, have begun to manufacture new soldiers.
+They are the product of the combination of magic and science.
+
+0x22ac : 0xb342 (0x3542)
+posy =0x06, posx =0x0e
+sizex=0x14, sizey=0x03
+
+それは，「まほうきし」とよは゛れた.[END OF MSG]
+They are known as “Magic Swordsmen”.
+
+0x22ae : 0xb35b (0x355b)
+posy =0x0d, posx =0x08
+sizex=0x0e, sizey=0x04
+かれに，
+メタリオンカスタムか゛
+ あたえられた.[END OF MSG]
+He was given the Metalion Custom.
+
+0x22b0 : 0xb37d (0x357d)
+posy =0x09, posx =0x0d
+sizex=0x14, sizey=0x05
+そのとき，ごうおんとともに
+
+あたりは くらくなっていった..[END OF MSG]
+And with a thunderous booming, their chances of success became bleak.
+
+0x22b2 : 0xb3a2 (0x35a2)
+posy =0x04, posx =0x04
+sizex=0x06, sizey=0x01
+あそこた゛!
+[END OF MSG]
+Over there!
+
+0x22b4 : 0xb3ad (0x35ad)
+posy =0x08, posx =0x08
+sizex=0x14, sizey=0x09
+つかわない
+わさ゛
+ほ゛うき゛ょ[END OF MSG]
+Don’t Use
+Techniques
+Defense
+
+0x22b6 : 0xb3c2 (0x35c2)
+posy =0x08, posx =0x0b
+sizex=0x14, sizey=0x09
+いなす゛ま
+た゛いち
+てんい[END OF MSG]
+Lightning
+Earth
+Divine Will (not sure about that one)
+
+0x22b8 : 0xb3d5 (0x35d5)
+posy =0x08, posx =0x0e
+sizex=0x14, sizey=0x09
+はと゛う
+ぎゃくてん
+てんせい[END OF MSG]
+Kinesis (lit. “Force”)
+Reversal
+Nature
+
+0x22ba : 0xb3ea (0x35ea)
+posy =0x08, posx =0x11
+sizex=0x14, sizey=0x09
+しゃてい
+じくう
+むりょく[END OF MSG]
+Ranged
+Time (lit. “Space-time”, but usually used in a “time magic” kinda sense)
+Power of Nothingness (could also be “powerlessness”)
+
+0x22bc : 0xb3fd (0x35fd)
+posy =0x08, posx =0x14
+sizex=0x14, sizey=0x09
+はんしゃ[END OF MSG]
+Reflection
+
+0x22be : 0xb406 (0x3606)
+posy =0x0a, posx =0x0a
+sizex=0x13, sizey=0x02
+このマ―カ―は いどうずみて゛す
+[END OF MSG]
+This marker has already moved.
+
+0x22c0 : 0xb420 (0x3620)
+posy =0x0a, posx =0x0a
+sizex=0x10, sizey=0x02
+ここには いと゛う て゛きません
+[END OF MSG]
+You cannot move here.
+
+0x22c2 : 0xb435 (0x3635)
+posy =0x0e, posx =0x1a
+sizex=0x11, sizey=0x01
+MP:・・{1A}AP:・・{1A}HP:・・
+[END OF MSG]
+
+0x22c4 : 0xb44b (0x364b)
+posy =0x01, posx =0x1a
+sizex=0x0b, sizey=0x01
+[END OF MSG]
+
+0x22c6 : 0xb451 (0x3651)
+posy =0x13, posx =0x1a
+sizex=0x0c, sizey=0x01
+と゛のマ―カ―て゛すか?
+[END OF MSG]
+Which marker?
+
+0x22c8 : 0xb464 (0x3664)
+posy =0x08, posx =0x0e
+sizex=0x10, sizey=0x01
+ふ゛たいを はいちしてくた゛さい
+[END OF MSG]
+Arrange your forces.
+
+0x22ca : 0xb479 (0x3679)
+posy =0x04, posx =0x32
+sizex=0x20, sizey=0x20
+PRESENTED BY NCS (c) 1990[END OF MSG]
+
+0x22cc : 0xb495 (0x3695)
+posy =0x06, posx =0x20
+sizex=0x14, sizey=0x20
+「カ゛イアれき 4220ねん．」    
+
+ウ゛ェルタ゛―スれんぽうは なぞの
+ちからを えて，たいりくしんこうを かいし した．
+いっぽう，テ゛ィア―スレれんぽうは，
+このうこ゛きを さっち，しんこうを そしすべく，
+ぜんぐんに さくせん しれいがくだった．
+た゛か゛，ウ゛ェルタ゛―スく゛んの きょうた゛い
+な ちからのうえに，テ゛ィア―
+スレく゛んは くせんをしいられ，せんかは
+かくだい していた..
+[END OF MSG]
+Gaia Calender, the year 4220.
+The Veldarse Federation acquired a mysterious power and
+started taking over the entire continent.
+However, the Disearthre Federation sensed this, and stood in the way of Veldarse’s invasion, and their entire army was sent against Veldarse.
+And while the Veldarse army wielded great power, the Disearthre army put up a great fight, and the casualties were many.
+
+
+0x22ce : 0xb631 (0x3831)
+posy =0x03, posx =0x0e
+sizex=0x20, sizey=0x20
+ちへいの かなた より せまりくる きょた゛いな やみ[END OF MSG]
+A great darkness came looming across the land.
+
+0x22d0 : 0xb651 (0x3851)
+posy =0x03, posx =0x0e
+sizex=0x20, sizey=0x20
+ふたたひ゛ まぐんの しんこうか゛ はし゛まる!![END OF MSG]
+The invasion of demon soldiers has begun anew!!
+
+0x22d2 : 0xb670 (0x3870)
+posy =0x0a, posx =0x19
+sizex=0x20, sizey=0x20
+　GAME START　
+　GAME  LOAD　[END OF MSG]
+
+0x22d4 : 0xb68e (0x388e)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+スカイクロ―  [END OF MSG]
+Skyclaw
+
+0x22d6 : 0xb69d (0x389d)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+シュ―トク゛―ス[END OF MSG]
+Shootgoose
+
+0x22d8 : 0xb6ac (0x38ac)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+ハ゛トルク゛―ス[END OF MSG]
+Battlegoose
+
+0x22da : 0xb6bb (0x38bb)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+メタリオン   [END OF MSG]
+Metalion
+
+0x22dc : 0xb6ca (0x38ca)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+フォ―トレス  [END OF MSG]
+Fortless
+
+0x22de : 0xb6d9 (0x38d9)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+ヘヒ゛―ア―マ―[END OF MSG]
+Heavy Armor
+
+0x22e0 : 0xb6e8 (0x38e8)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+ランハ゛―トカスタム[END OF MSG]
+Lambert Custom
+
+0x22e2 : 0xb6f9 (0x38f9)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+シュ―トク゛―ス2[END OF MSG]
+Shootgoose 2
+
+0x22e4 : 0xb709 (0x3909)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+ハ゛トルク゛―ス2[END OF MSG]
+Battlegoose 2
+
+0x22e6 : 0xb719 (0x3919)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+メタリオン2[END OF MSG]
+Metalion 2
+
+0x22e8 : 0xb726 (0x3926)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+ライトスヘ゜ンサ―1[END OF MSG]
+Lightspencer 1
+
+0x22ea : 0xb737 (0x3937)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+ライトスヘ゜ンサ―2[END OF MSG]
+Lightspencer 2
+
+0x22ec : 0xb748 (0x3948)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+ライトスヘ゜ンサ―3[END OF MSG]
+Lightspencer 3
+
+0x22ee : 0xb759 (0x3959)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+とうしんへい[END OF MSG]
+Warrior of the Blade
+
+0x22f0 : 0xb764 (0x3964)
+posy =0x01, posx =0x1a
+sizex=0x20, sizey=0x20
+メタリオンカスタム[END OF MSG]
+Metalion Custom
+
+0x22f2 : 0xb774 (0x3974)
+posy =0x01, posx =0x1a
+sizex=0x0b, sizey=0x01
+ウ゛ェルタ゛―スく゛ん
+[END OF MSG]
+Verdarse Army
+
+0x22f4 : 0xb786 (0x3986)
+posy =0x03, posx =0x1d
+sizex=0x20, sizey=0x20
+SELECT AND PUSH [I] BUTTON[END OF MSG]
+
+0x22f6 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x22f8 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x22fa : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x22fc : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x22fe : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2300 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2302 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2304 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2306 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2308 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x230a : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x230c : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x230e : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2310 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2312 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2314 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2316 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x2318 : 0xb7a5 (0x39a5)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+テ゛ィア―スレく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x231a : 0xb7c2 (0x39c2)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+ウ゛ェルタ゛―スく゛ん
+    の さくせん
+[END OF MSG]
+The Disearthre army’s strategy.
+
+0x231c : 0xb7df (0x39df)
+posy =0x08, posx =0x0d
+sizex=0x10, sizey=0x01
+し゛ょうほうの しゅうしゅう[END OF MSG]
+Gather Information
+
+0x231e : 0xb7f3 (0x39f3)
+posy =0x09, posx =0x0f
+sizex=0x10, sizey=0x02
+ランハ゛―トを
+よぶこえか゛ きこえた...
+[END OF MSG]
+You heard a voice calling out for Lambert.
+
+0x2320 : 0xb812 (0x3a12)
+posy =0x0b, posx =0x0d
+sizex=0x0b, sizey=0x02
+イニシアティフ゛   
+      けってい
+[END OF MSG]
+Initiative Decision (?)
+
+0x2322 : 0xb82f (0x3a2f)
+posy =0x03, posx =0x0a
+sizex=0x1a, sizey=0x08
+  MARKER     MP HP AP RG
+
+{01} スカイクロ―     05 05 03 --
+{02} シュ―トク゛―ス   05 08 02 06
+{03} ハ゛トルク゛―ス   03 06 05 08
+{04} メタリオン      04 08 06 --
+{05} フォ―トレス     06 14 08 04
+{06} ヘヒ゛―ア―マ―   02 09 08 04[END OF MSG]
+Skyclaw
+Shootgoose
+Battlegoose
+Metalion
+Fortless
+Heavy Armor
+
+0x2324 : 0xb8f6 (0x3af6)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+いま いそか゛しいんた゛.
+
+あとにしてくれ.[END OF MSG]
+I’m busy right now. Let me do it later.
+
+0x2326 : 0xb912 (0x3b12)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+え? クリスタル?
+
+しらないな..[END OF MSG]
+Eh? Crystals? Dunno nothin’ about it...
+
+0x2328 : 0xb92b (0x3b2b)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+いそか゛しいんた゛.
+
+た゛れか へ゛つのひとに きいて
+くれないか?[END OF MSG]
+I’m busy right now.
+Could you ask someone else about it?
+
+0x232a : 0xb952 (0x3b52)
+posy =0x05, posx =0x11
+sizex=0x0e, sizey=0x04
+その いえには，た゛れも
+すんて゛いないようた゛.[END OF MSG]
+Seems like no one lives in that house.
+
+0x232c : 0xb970 (0x3b70)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+また あとにしてくれ[END OF MSG]
+Come again! (I think this is a shop message?)
+
+0x232e : 0xb97f (0x3b7f)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+
+き゛ゃ――――っ!
+
+あんたは た゛れた゛!?[END OF MSG]
+Gyaaahh! Who’re you?!
+
+0x2330 : 0xb99c (0x3b9c)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+お?!
+あなたは もしかして...
+
+あ，ひとちか゛いて゛した..[END OF MSG]
+Oh?!
+Are you possibly...
+Oh, I thought you were someone else.
+
+0x2332 : 0xb9c2 (0x3bc2)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+あなたは く゛んし゛んて゛すね.
+
+
+か゛んは゛ってくた゛さい[END OF MSG]
+You’re a soldier, aren’t you? Do your best.
+
+0x2334 : 0xb9e5 (0x3be5)
+posy =0x0c, posx =0x07
+sizex=0x10, sizey=0x06
+[END OF MSG]
+
+0x2336 : 0xb9ec (0x3bec)
+posy =0x13, posx =0x14
+sizex=0x0c, sizey=0x01
+[END OF MSG]
+
+0x2338 : 0xb9f2 (0x3bf2)
+posy =0x13, posx =0x1a
+sizex=0x0c, sizey=0x01
+ウ゛ェルタ゛―ス く゛ん
+[END OF MSG]
+Veldarse army
+
+0x233a : 0xba05 (0x3c05)
+posy =0x05, posx =0x11
+sizex=0x0e, sizey=0x04
+ほのお の クリスタルを
+
+ てにいれた!![END OF MSG]
+You got the Flame Crystal.
+
+0x233c : 0xba23 (0x3c23)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+
+カ゛イアクリスタルについて
+
+なにか しりませんか?[END OF MSG]
+Do you know anything about Gaia Crystals?
+
+0x233e : 0xba46 (0x3c46)
+posy =0x06, posx =0x0d
+sizex=0x20, sizey=0x20
+シュ―トク゛―ス2  03 10 04 08
+ハ゛トルク゛―ス2  04 08 06 --
+メタリオン2     05 10 08 --[END OF MSG]
+Shootgoose 2
+Battlegoose 2
+Metalion 2
+
+0x2340 : 0xba95 (0x3c95)
+posy =0x03, posx =0x12
+sizex=0x20, sizey=0x20
+{0B} ライトスヘ゜ンサ―1 05 06 -- --
+{0C} ライトスヘ゜ンサ―2 04 06 -- --
+{0D} ライトスヘ゜ンサ―3 05 05 -- --[END OF MSG]
+Lightspencer 1
+Lightspencer 2
+Lightspencer 3
+
+0x2342 : 0xbaed (0x3ced)
+posy =0x03, posx =0x03
+sizex=0x10, sizey=0x04
+  WEAPON    AP
+フ゛ラストサ―ヘ゛ル  12
+エネルキ゛―スライサ― 20
+ク゛ラント゛ウエ―フ゛ 26[END OF MSG]
+Blast Saber
+Energy Slicer
+
+
+0x2344 : 0xbb37 (0x3d37)
+posy =0x03, posx =0x03
+sizex=0x10, sizey=0x04
+  WEAPON    AP
+サイオバルカン    12
+フラッシュカノン    20
+フル=フ゛ラスタ―   26[END OF MSG]
+Psyo Vulcan
+Flash Cannon
+Full Blaster
+
+0x2346 : 0xbb83 (0x3d83)
+posy =0x06, posx =0x20
+sizex=0x14, sizey=0x20
+すへ゛ては けんと まほうの ときより
+はし゛まった・・・・．
+すへ゛てか゛ たいきょくとなる ふたつの
+そんさ゛いにより，せかいか゛つくられるい
+せ゛んより「カ゛イア」は そんさ゛いして
+いた．
+そのため，この「カ゛イア」は あいたいす
+る ふたつの そんさ゛いのと゛ちらにも
+えいきょうをあたえるものて゛あり・・・
+
+- はんどく ふのう -
+
+やみか゛「カ゛イア」をつかうとき， せか
+いは はめつ するて゛あろう．[END OF MSG]
+Everything started during the time of Swords and Sorcery.
+“Gaia” existed before everything as it is now, before swords or magic, and before the world was created. “Gaia” influenced the existence of the conflicting swords and magic.
+-Undecipherable Text-
+If “Gaia” were to be used by the forces of darkness, the world would fall into ruin.
+
+0x2348 : 0xbc5d (0x3e5d)
+posy =0x06, posx =0x20
+sizex=0x14, sizey=0x20
+そして，ひかりか゛「カ゛イア」を しはい
+するならは゛，せかいはえいえんの へいわ
+を むかえるて゛あろう．
+すへ゛ては「カ゛イア」か゛ゆいいつ ぜったい
+の しはいしゃを もとめるとき，こ
+れらの うんめいは 「カ゛イア」により
+みちびかれるのた゛．
+
+― しょうしつ ―
+
+このときより，せかいは あたらしい し゛
+た゛いをむかえる．」[END OF MSG]
+However, if the forces of light maintain control of “Gaia”, the world will be able to achieve eternal peace.
+Once “Gaia” desires it’s sole ruler, “Gaia” itself will guide the fate of those involved.
+-Erased Text-
+
+0x234a : 0xbd0e (0x3f0e)
+posy =0x06, posx =0x20
+sizex=0x14, sizey=0x20
+シ゛―クヘルマン 1せい
+    「カ゛イアせいでん」 より
+きゅうれきしアカテ゛ミ―しょゆう
+         カ゛イア4050ねん
+はっくつち:
+きゅうウ゛ェルタ゛―スれんほ゜う
+こうし゛ょう あとち ちか50メ―トル
+    「しんて゛ん いせき ち」より
+[END OF MSG]
+Zeke Helman the 1st.
+    From “Gaia Lore” located in the Academy of Ancient History.
+    Gaia Year 4050.
+
+0x234c : 0xbda5 (0x3fa5)
+posy =0x09, posx =0x12
+sizex=0x20, sizey=0x20
+
+カ゛イアたいりくに，
+
+あくまの し゛た゛いか゛
+
+おとずれた...[END OF MSG]
+An era of demons has begun on the continent of Gaia...
+
+
+0x234e : 0xb576 (0x3776)
+posy =0x06, posx =0x20
+sizex=0x14, sizey=0x20
+しかし，ついに この じょうたいを
+だは すべく ひとりの おとこか゛
+とくへ゛つ にんむに ちゃくにん した．
+かれの にんむは とくへ゛つ ふ゛たいを
+へんせいし，たいりくに ねむる「クリスタ
+ル」を さか゛した゛す ことて゛あった．
+
+
+かれのなは エルヒ゛ン・ランハ゛―ト．
+テ゛ィア―スレく゛ん そうこうきしぐんだんちょう
+て゛ある．[END OF MSG]
+However, one man has finally stepped up to stop this from happening, and has taken on a special duty. His duty is to create a special army, and search for the crystals which lay sleeping in the continent.
+His name is Ervin Lambert, commander of the Disearthre Army Armored Knight Corps.
+
+0x2350 : 0xbdd0 (0x3fd0)
+posy =0x13, posx =0x18
+sizex=0x0c, sizey=0x01
+てんい の まほう[END OF MSG]
+Divine Will Magic
+
+0x2352 : 0xbddf (0x3fdf)
+posy =0x13, posx =0x18
+sizex=0x0c, sizey=0x01
+き゛ゃくてん の まほう
+[END OF MSG]
+Reversal Magic
+
+0x2354 : 0xbdf0 (0x3ff0)
+posy =0x0c, posx =0x04
+sizex=0x20, sizey=0x20
+やみの ちからを
+
+    おもいしれ!![END OF MSG]
+With this, realize the true power of darkness!!
+
+0x2356 : 0xbe0b (0x400b)
+posy =0x08, posx =0x15
+sizex=0x20, sizey=0x20
+ホ゛―セ゛ル!!
+
+きさまの さいこ゛た゛![END OF MSG]
+Bozer!! This is the end for you!
+
+0x2358 : 0xbe29 (0x4029)
+posy =0x07, posx =0x0e
+sizex=0x12, sizey=0x03
+
+ハ゛ックアッフ゜メモリか゛ありません
+[END OF MSG]
+You don’t have any backup memory.
+
+0x235a : 0xbe43 (0x4043)
+posy =0x09, posx =0x0a
+sizex=0x0e, sizey=0x02
+ハ゛ックアッフ゜メモリに
+テ゛―タをほぞんしますか?
+[END OF MSG]
+Store your data on the backup memory?
+
+0x235c : 0xbe67 (0x4067)
+posy =0x13, posx =0x0e
+sizex=0x04, sizey=0x02
+・はい
+・いいえ
+[END OF MSG]
+Yes
+No
+
+0x235e : 0xbe74 (0x4074)
+posy =0x0e, posx =0x10
+sizex=0x08, sizey=0x01
+ほそ゛んしました
+[END OF MSG]
+Data stored.
+
+0x2360 : 0xbe81 (0x4081)
+posy =0x09, posx =0x10
+sizex=0x0e, sizey=0x01
+メモリか゛いっは゜いて゛す.
+[END OF MSG]
+Memory is full.
+
+0x2362 : 0xbe96 (0x4096)
+posy =0x09, posx =0x0e
+sizex=0x0e, sizey=0x02
+カ゛イフレ―ムのテ゛―タは
+ ほそ゛んされていません.
+[END OF MSG]
+There is no Guyframe data stored on the memory.
+
+0x2364 : 0xbebb (0x40bb)
+posy =0x07, posx =0x0d
+sizex=0x20, sizey=0x20
+くせんの すえ，
+
+テ゛ィア―スレく゛んは やふ゛れた...[END OF MSG]
+At the end of the tough battle, Disearthre’s army was crushed.
+
+0x2366 : 0xbee0 (0x40e0)
+posy =0x06, posx =0x09
+sizex=0x14, sizey=0x20
+ウ゛ェルタ゛―スれんほ゜うく゛んの しょ
+うり...  それは，カ゛イアたいりくを
+あんこくか゛しはいするときて゛あった.
+へいわは うちくだかれ，きほ゛うの ひ
+かりは しょうめつし，ひとひ゛とに のこ
+されたのは せ゛つほ゛う た゛けて゛あっ
+た...[END OF MSG]
+The army of the Veldarse Republic had won...
+And with that, the continent of Gaia became ruled by the forces of darkness.
+Peace was crushed, the light of hope was extinguished, and all that was left in the people’s hearts was despair.
+
+0x2368 : 0xbf65 (0x4165)
+posy =0x19, posx =0x17
+sizex=0x06, sizey=0x01
+てったい[END OF MSG]
+Retreat
+
+0x236a : 0xbf6f (0x416f)
+posy =0x05, posx =0x05
+sizex=0x06, sizey=0x02
+つつ゛ける
+しゅうりょう
+[END OF MSG]
+Continue
+End
+
+0x236c : 0xbf80 (0x4180)
+posy =0x08, posx =0x15
+sizex=0x11, sizey=0x20
+ランハ゛―トは ひかりのきょし゛ん
+
+「とうしんへい」 に のりかえた.
+[END OF MSG]
+Lambert was changed into the great man of Light, the Warrior of the Blade.
+
+0x236e : 0xbfaa (0x41aa)
+posy =0x04, posx =0x10
+sizex=0x10, sizey=0x06
+
+こ，これは!![END OF MSG]
+T-this is...!!
+
+0x2370 : 0xbfb7 (0x41b7)
+posy =0x08, posx =0x0f
+sizex=0x10, sizey=0x01
+[END OF MSG]
+
+0x2372 : 0x7ee1 (0x80e1)
+posy =0x07, posx =0x0e
+sizex=0x20, sizey=0x20
+TO BE CONTINUED・・・
+
+ANOTHER GENERATION[END OF MSG]
+
+0x2374 : 0x7f0c (0x810c)
+posy =0x07, posx =0x0d
+sizex=0x20, sizey=0x20
+なか゛く，くるしいたたかいのすえ，
+ウ゛ェルタ゛―スれんほ゜うは やふ゛れ，
+ついに ホ゛―セ゛ルは たおれた...[END OF MSG]
+After a long, tough battle, the Verdarse Republic was defeated,
+and soon Bozer was felled.
+
+0x2376 : 0x7f4f (0x814f)
+posy =0x07, posx =0x0d
+sizex=0x20, sizey=0x20
+そして..
+カ゛イアたいりくに，ふたたひ゛へいわか゛
+おとす゛れた....[END OF MSG]
+And finally...
+Peace once again returned to the continent of Gaia...
+
+0x2378 : 0x7f7b (0x817b)
+posy =0x08, posx =0x0f
+sizex=0x10, sizey=0x01
+[END OF MSG]
+
+0x237a : 0x7f81 (0x8181)
+posy =0x08, posx =0x0f
+sizex=0x10, sizey=0x01
+[END OF MSG]
+
+0x237c : 0x7f87 (0x8187)
+posy =0x00, posx =0x20
+sizex=0x20, sizey=0x21
+      GAIFRAME   STAFF
+
+EXECUTIVE PRODUCE Y・SHIRAKURA
+    GAME DESIGN   C・SUZUKI
+     PROGRAM     FUJISHIRO
+ GRAPHICS DESIGN A・KAKITA
+                 E・SUDA
+CHARACTER DESIGN S・NAKAI
+                 K・KOBAYASI
+                 E・KOYAMA
+                 T・SAITO[END OF MSG]
+
+0x237e : 0x8099 (0x0000)
+posy =0x30, posx =0x01
+sizex=0x31, sizey=0x00
+(cannot translate address)
+
